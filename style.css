@@ -1,0 +1,104 @@
+@font-face {
+  font-family: Urbanist;
+  src: url(Gaegu.ttf);
+}
+
+@font-face {
+  font-family: Yanone;
+  src: url(Yanone.ttf);
+}
+
+@font-face {
+  font-family: Font;
+  src: url(Font.ttf);
+}
+
+
+#headers{
+  background-color: #C68B59;
+  padding: 8px;
+  margin: inherit;
+  margin-left: inherit;
+  margin-right: inherit;
+}
+
+#centerCol{
+  background-color: #FCDEC0;
+}
+
+#h1{
+  font-family: Yanone;
+}
+
+#intro{
+  font-family: Font;
+  font-size: 15px;
+}
+
+#ender{
+  font-family: monospace;
+  font-size: 10px;
+}
+
+#img1{
+  height: 120px;
+  width: 190px;
+
+  border-color: #865439;
+  border-radius: 5px;
+  border-style: dashed;
+  border-width: thick;
+}
+
+#img2{
+  height:100px;
+  width:140px;
+
+  border-color: #865439;
+  border-radius: 5px;
+  border-style: dashed;
+  border-width: thick;
+}
+
+#img3{
+  height:100px;
+  width:200px;
+
+  border-color: #865439;
+  border-radius: 5px;
+  border-style: dashed;
+  border-width: thick;
+}
+
+
+
+.col-sm-3{
+  background-color: #8FC1D4;
+}
+
+.infop{
+  font-family: Urbanist;
+  padding-bottom: 5px;
+  font-size: 15px;
+}
+
+
+
+body{
+  background-color: #8FC1D4;
+}
+
+a{
+  font-family: Font;
+  color: black;
+}
+
+h3{
+  font-family: Yanone;
+  font-size: 20px;
+}
+
+hr{
+  border: 3px solid #FFF1F1;
+  border-radius: 5px;
+}
